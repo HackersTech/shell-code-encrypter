@@ -1,6 +1,8 @@
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 ---
 # shell-code-encrypter
+You can encrypt your bash shell source code 
+so no one can see and no side effects of it😂
 
 ## how to use --
 ---
