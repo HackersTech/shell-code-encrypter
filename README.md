@@ -2,8 +2,8 @@
 ---
 # shell-code-encrypter
 You can encrypt your bash shell source code 
-so no one can see and no side effects of it😂
-### decrypter is coming soon
+so no one can see and it will run as before no side effects of it😂
+
 ## how to use --
 ---
 
@@ -13,7 +13,6 @@ cd shell-code-encrypter
 bash bash-shell-encrypter
 ```
 --- 
-
 ## support us and follow on 
 youtube channel subscribe pls
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
