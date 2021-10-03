@@ -10,7 +10,7 @@ so no one can see and it will run as before no side effects of it😂
 - git clone https://github.com/HackersTech/shell-code-encrypter
 ```
 cd shell-code-encrypter
-bash bash-shell-encrypter
+bash shell-encrypter
 ```
 --- 
 ## support us and follow on 
